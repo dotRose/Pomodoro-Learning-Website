@@ -6,10 +6,11 @@
 
 ```
  /README.md
- /LICENSE
+ /favicon.svg
  /index.html
  /style.css
  /main.js
+ /LICENSE
 ```
 
 <h2>🛡️ License:</h2>
